@@ -23,9 +23,9 @@ class _MyAppState extends State<MyApp> {
     }
 
     return Scaffold(
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.grey,
       appBar: AppBar(
-        backgroundColor: Colors.blue[900],
+        backgroundColor: Colors.grey[900],
         title: Text("Ask Me Anything"),
       ),
       body: Center(
